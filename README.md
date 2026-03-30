@@ -1,4 +1,4 @@
-# 🏠 LOCAL HELP HUB
+# 🏠 5minhelp
 
 > **A full-stack local service marketplace** — Like Uber for Electricians, Plumbers, Tutors, Mechanics and more. Built with React + Node.js + MySQL.
 
